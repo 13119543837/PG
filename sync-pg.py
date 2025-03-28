@@ -653,13 +653,13 @@ class TGDown:
 
 
 if __name__ == '__main__':
-    api_id = xxx
-    api_hash = 'xxx'
-    phone = "86xxxxxxxxx"
+    api_id = 2934000
+    api_hash = '7407f1e353d48363c48df4c8b3904acb'
+    phone = "8613119543837"
     channel = 'https://t.me/PandaGroovePG'
-    username = 'fish2018' # github username
+    username = '13119543837' # github username
     repo = 'PG' # github repo
-    token = 'xxxxx' # github token
+    token = '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' # github token
     local_target = 'p' # zip解压提供在线接口的目录
     filter = r"pg\.(\d{8})-(\d{4})\.zip"
     filter2 = r'tgsearchpack\.(\d{8})-(\d{4})\.zip'
